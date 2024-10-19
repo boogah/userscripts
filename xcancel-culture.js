@@ -4,7 +4,7 @@
 // @version      2024.10.19
 // @description  Automatically redirects x.com to xcancel.com.
 // @author       boogah
-// @include      https://*.x.com/*
+// @include      https://x.com/*
 // @license      GPL-2.0
 // @grant        none
 // ==/UserScript==
